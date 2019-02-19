@@ -25,7 +25,7 @@ allprojects {
 //        }
         //私有服务器仓库地址
         maven {
-            url 'https://raw.githubusercontent.com/yuchen931201/autoLayoutLib/AutoLayout/master'
+            url 'https://raw.githubusercontent.com/yuchen931201/autoLayoutLib/master'
         }
     }
 }
