@@ -35,13 +35,12 @@ AutoScreen.Companion.auto(this);
 <br/>
 <br/>
 
-> 推广技术赋能，助力开发
-
+# > 推广技术赋能，助力开发
 腾讯云开发者平台免费为开发者提供高效便捷的开发工具与优质的开发管理服务。
-
 包括项目协作、Git/SVN 代码托管、在线编辑器、持续集成等工具。
 
 ![平台截图](https://dn-coding-net-production-pp.codehub.cn/4ba18ace-ccc9-45a7-a802-655283eb648a.png)
+
 ## 安装
 
 1. 准备一个微信
