@@ -20,8 +20,15 @@ dependencies {
 }
 ```
 
+调用方法例如:
+```android
+AutoScreen.Companion.setSize(this,false,750,1334);
+AutoScreen.Companion.auto(this);
+```
 
-> 技术赋能，助力开发
+
+
+> 推广技术赋能，助力开发
 
 腾讯云开发者平台免费为开发者提供高效便捷的开发工具与优质的开发管理服务。
 
@@ -34,8 +41,6 @@ dependencies {
 2. 准备一台电脑
 3. 访问 https://dev.tencent.com
 
-
-
 ## 使用
 
 [帮助文档](https://dev.tencent.com/help/)
@@ -44,17 +49,11 @@ dependencies {
 
 [官方博客](https://blog.coding.net/)
 
-
-
 ## 开发
 
 打开 [Cloud Studio](https://studio.dev.tencent.com/)。
 
-
-
 ## 发布历史
-
-
 
 ### v4.0710.1
 
