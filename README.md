@@ -25,23 +25,11 @@ dependencies {
 AutoScreen.Companion.setSize(this,false,750,1334);
 AutoScreen.Companion.auto(this);
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 > 推广技术赋能，助力开发
 
