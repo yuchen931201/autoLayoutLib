@@ -24,9 +24,9 @@ allprojects {
 //            url 'file:E:\\WorkCode\\myCodingNet\\AutoLayout\\repository'
 //        }
         //私有服务器仓库地址
-//        maven {
-//            url 'http://localhost:8081/nexus/content/repositories/releases/'
-//        }
+        maven {
+            url 'https://raw.githubusercontent.com/yuchen931201/autoLayoutLib/master'
+        }
     }
 }
 
