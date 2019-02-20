@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b085f04c-dbd7-4f5d-9ff5-488997ea3892" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autolayoutlib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/autolayoutlib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/tzlib/autolayout/AutoLayoutLib/maven-metadata.xml.sha1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,8 +94,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autolayoutlib/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="252">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -3631,28 +3626,32 @@
             <path>
               <item name="AutoLayout" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="autolayoutlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoLayout" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tzlib" type="462c0819:PsiDirectoryNode" />
+              <item name="autolayoutlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoLayout" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tzlib" type="462c0819:PsiDirectoryNode" />
-              <item name="autolayout" type="462c0819:PsiDirectoryNode" />
+              <item name="autolayoutlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoLayout" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tzlib" type="462c0819:PsiDirectoryNode" />
-              <item name="autolayout" type="462c0819:PsiDirectoryNode" />
-              <item name="AutoLayoutLib" type="462c0819:PsiDirectoryNode" />
+              <item name="autolayoutlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autolayoutlib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -3838,7 +3837,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
@@ -3855,10 +3853,10 @@
       <window_info id="Capture Tool" />
       <window_info anchor="bottom" id="Debug with JRebel for Android" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info anchor="bottom" id="JRebel for Android" />
       <window_info anchor="bottom" id="Build" weight="0.27211645" />
-      <window_info anchor="right" id="Gradle" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="Gradle" visible="true" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -3940,8 +3938,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autolayoutlib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="252">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
         </state>
       </provider>
     </entry>
