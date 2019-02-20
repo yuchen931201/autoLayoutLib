@@ -16,7 +16,7 @@ allprojects {
 ```android
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation 'com.tzlib.autolayout:AutoLayoutLib:1.0.0'
+    implementation 'com.tzlib.autolayout:AutoLayoutLib:1.0.1'
 }
 ```
 
