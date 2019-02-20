@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         AutoScreen.Companion.auto(this);
-        AutoScreenJ.auto(this);
+//        AutoScreenJ.auto(this);
     }
 }
