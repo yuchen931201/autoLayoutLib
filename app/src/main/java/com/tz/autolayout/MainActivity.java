@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import com.tz.autolayoutlib.AutoScreen;
+import com.tz.autolayoutlib.AutoScreenJ;
 
 /**
  * @ComputerCode: YD-YF-2015083113-1
@@ -20,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         AutoScreen.Companion.auto(this);
+        AutoScreenJ.auto(this);
     }
 }

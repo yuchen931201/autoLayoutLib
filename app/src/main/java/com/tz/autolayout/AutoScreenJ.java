@@ -1,4 +1,4 @@
-package com.tz.autolayoutlib;
+package com.tz.autolayout;
 
 import android.app.Activity;
 import android.content.Context;
@@ -38,15 +38,15 @@ public class AutoScreenJ {
             height -= getStatusBarHeight(act);
         }
 
-        AutoScreenJ.displayWidth=width;
-        AutoScreenJ.displayHeight=height;
+         AutoScreenJ.displayWidth=width;
+         AutoScreenJ.displayHeight=height;
 
-        AutoScreenJ.designWidth=designWidth;
-        AutoScreenJ.designHeight=designHeight;
+         AutoScreenJ.designWidth=designWidth;
+         AutoScreenJ.designHeight=designHeight;
 
-        double displayDiagonal=Math.sqrt(Math.pow(AutoScreenJ.displayWidth, 2)+Math.pow(AutoScreenJ.displayHeight, 2));
-        double designDiagonal=Math.sqrt(Math.pow(AutoScreenJ.designWidth, 2)+Math.pow(AutoScreenJ.designHeight, 2));
-        AutoScreenJ.textPixelsRate=displayDiagonal/designDiagonal;
+        double displayDiagonal=Math.sqrt(Math.pow( AutoScreenJ.displayWidth, 2)+Math.pow( AutoScreenJ.displayHeight, 2));
+        double designDiagonal=Math.sqrt(Math.pow( AutoScreenJ.designWidth, 2)+Math.pow( AutoScreenJ.designHeight, 2));
+         AutoScreenJ.textPixelsRate=displayDiagonal/designDiagonal;
     }
 
     public static int getStatusBarHeight(Context context)
@@ -75,10 +75,10 @@ public class AutoScreenJ {
     public static void auto(View view){
         if(view==null || displayWidth<1 || displayHeight<1)return;
 
-        AutoScreenJ.autoTextSize(view);
-        AutoScreenJ.autoSize(view);
-        AutoScreenJ.autoPadding(view);
-        AutoScreenJ.autoMargin(view);
+         AutoScreenJ.autoTextSize(view);
+         AutoScreenJ.autoSize(view);
+         AutoScreenJ.autoPadding(view);
+         AutoScreenJ.autoMargin(view);
 
         if(view instanceof ViewGroup){
             auto((ViewGroup)view);
